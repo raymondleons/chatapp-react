@@ -81,5 +81,17 @@ repo-name/
 1. First, open your folder project into terminal and type the text like in this screenshot
 ![Image description](/images/npm-run-start.png)
 
-2. Open your browser and login [http://localhost:3000/login](http://localhost:3000/login) like in screenshot
+2. Open your browser and login wiht your account or signup when you dont't account [http://localhost:3000/login](http://localhost:3000/login) like in screenshot
 ![Images description](/images/second-steps.png)
+
+3. After login, you will see chat room like in screenshot
+![Images description](/images/chats.png)
+
+4. And then, you must create another acount when you want test the chat. For test chat, you can choose another account like in screenshot i choose 'maman@gmail.com'
+
+- This is chat room from my acount
+![Images description](/images/chats1.png)
+
+- This is chat room from maman acount
+![Images description](/images/chats2.png)
+
