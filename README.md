@@ -87,11 +87,11 @@ repo-name/
 3. After login, you will see chat room like in screenshot
 ![Images description](/images/chats.png)
 
-4. And then, you must create another acount when you want test the chat. For test chat, you can choose another account like in screenshot i choose 'maman@gmail.com'
+4. And then, you must create another account when you want test the chat. For test chat, you can choose another account like in screenshot i choose 'maman@gmail.com'
 
-- This is chat room from my acount
+- This is chat room from my account
 ![Images description](/images/chat1.png)
 
-- This is chat room from maman acount
+- This is chat room from maman account
 ![Images description](/images/chat2.png)
 
