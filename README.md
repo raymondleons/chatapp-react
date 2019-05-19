@@ -78,4 +78,4 @@ repo-name/
 ````  
 
 ### Screenshot
-![GitHub Logo](/images/npm-run-start.png)
+![Image description](/images/npm-run-start.png)
