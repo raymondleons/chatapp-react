@@ -78,4 +78,8 @@ repo-name/
 ````  
 
 ### Screenshot
+1. First, open your folder project into terminal and type the text like in this screenshot
 ![Image description](/images/npm-run-start.png)
+
+2. Open your browser and login [http://localhost:3000/login](http://localhost:3000/login) like in screenshot
+![Images description](/images/second-steps.png)
