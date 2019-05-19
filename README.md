@@ -76,3 +76,6 @@ repo-name/
   server.js
   webpack.config.js
 ````  
+
+### Screenshot
+![GitHub Logo](/images/npm-run-start.png)
